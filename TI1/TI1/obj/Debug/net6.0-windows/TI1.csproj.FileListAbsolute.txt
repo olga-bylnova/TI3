@@ -1,0 +1,17 @@
+D:\Projects\VStudio 2022\TI1\TI1\bin\Debug\net6.0-windows\TI1.exe
+D:\Projects\VStudio 2022\TI1\TI1\bin\Debug\net6.0-windows\TI1.deps.json
+D:\Projects\VStudio 2022\TI1\TI1\bin\Debug\net6.0-windows\TI1.runtimeconfig.json
+D:\Projects\VStudio 2022\TI1\TI1\bin\Debug\net6.0-windows\TI1.dll
+D:\Projects\VStudio 2022\TI1\TI1\bin\Debug\net6.0-windows\ref\TI1.dll
+D:\Projects\VStudio 2022\TI1\TI1\bin\Debug\net6.0-windows\TI1.pdb
+D:\Projects\VStudio 2022\TI1\TI1\obj\Debug\net6.0-windows\TI1.csproj.AssemblyReference.cache
+D:\Projects\VStudio 2022\TI1\TI1\obj\Debug\net6.0-windows\TI1.Form1.resources
+D:\Projects\VStudio 2022\TI1\TI1\obj\Debug\net6.0-windows\TI1.csproj.GenerateResource.cache
+D:\Projects\VStudio 2022\TI1\TI1\obj\Debug\net6.0-windows\TI1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VStudio 2022\TI1\TI1\obj\Debug\net6.0-windows\TI1.AssemblyInfoInputs.cache
+D:\Projects\VStudio 2022\TI1\TI1\obj\Debug\net6.0-windows\TI1.AssemblyInfo.cs
+D:\Projects\VStudio 2022\TI1\TI1\obj\Debug\net6.0-windows\TI1.csproj.CoreCompileInputs.cache
+D:\Projects\VStudio 2022\TI1\TI1\obj\Debug\net6.0-windows\TI1.dll
+D:\Projects\VStudio 2022\TI1\TI1\obj\Debug\net6.0-windows\ref\TI1.dll
+D:\Projects\VStudio 2022\TI1\TI1\obj\Debug\net6.0-windows\TI1.pdb
+D:\Projects\VStudio 2022\TI1\TI1\obj\Debug\net6.0-windows\TI1.genruntimeconfig.cache
